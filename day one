@@ -1,0 +1,6 @@
+print("30 Days 30 Hours Internship")
+String = "30 Days 30 Hours Internship"
+print(String[8:])
+Str = "'First day"
+Sta = " task'"
+print(Str + Sta)
